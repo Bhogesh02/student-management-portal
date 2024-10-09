@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Bhogesh",
+      "email": "tamminanabhogesh@gmail.com",
+      "age": 22,
+      "course": "Computer Science"
+    },
+    {
+      "id": 2,
+      "name": "Prudhive",
+      "email": "prudhivetamminana@gmail.com",
+      "age": 22,
+      "course": "information technology"
+    }
+    
+  ]
+  
